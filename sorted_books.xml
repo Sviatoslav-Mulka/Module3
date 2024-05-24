@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book>
+    <Title>The Great Gatsby</Title>
+    <Author>F. Scott Fitzgerald</Author>
+    <Year>1925</Year>
+  </Book>
+  <Book>
+    <Title>1984</Title>
+    <Author>George Orwell</Author>
+    <Year>1949</Year>
+  </Book>
+  <Book>
+    <Title>To Kill a Mockingbird</Title>
+    <Author>Harper Lee</Author>
+    <Year>1960</Year>
+  </Book>
+</Books>
